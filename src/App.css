@@ -1,0 +1,104 @@
+/* .form{
+ 
+  background-image: url('https://media.istockphoto.com/id/1141171034/vector/online-education-background-or-homepage-template-with-laptop-and-woman-studying-remotely.jpg?s=612x612&w=0&k=20&c=wBl3HDtt5fvXn-SCc338nXrE0RHe0IOLEtJWjTdc7Mk=');
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+} */
+
+
+
+.card{
+ background-color: rgb(108 56 56 / 85%);
+}
+.container-fluid{
+  background-image: url("https://img.freepik.com/free-photo/book-laptop-pencil-clock-wooden-table-library-education-learning-concept_1150-16628.jpg");
+width:100%;
+background-size: cover;
+}
+.label{
+  color: white;
+}
+.btn3{
+  background-color: #e34f4f;
+  margin-left: 40%;
+  padding: 1%;
+  border: none;
+  border-radius: 4%;
+  width: 19%;
+  color:white;
+ 
+  
+}
+.navbar{
+  background-color: rgb(58 21 31 / 74%) 
+}
+.card1{
+  background-color: #e90b0b6e;
+}
+.question{
+  text-align: center;
+}
+.btn2{
+  margin-left: 3%;
+  background-color:  #eb4c33;
+  color: white;
+  border: none;
+  width: 10%;
+  padding: 1%;
+  border-radius: 6%;
+}
+.btn1{
+  background-color: #7171e3b5;
+    width: 10%;
+    padding: 1%;
+    border: none;
+    color: white;
+    margin-left: 20%;
+    border-radius: 6%;
+}
+.list-group{
+  margin-left: 25%;
+  color: white;
+}
+.luck{
+  margin-left: 22%;
+}
+.date{
+  margin-left: 80%;
+}
+.card2{
+  background-color: white;
+}
+.btn{
+  background-color: #ab2d2d;
+    margin-left: 39%;
+    width: 28%;
+   
+}
+.dropdown{
+  padding: 1%;
+    border-radius: 5px;
+    width: 113%;
+}
+.container3{
+  /* background-image: url('https://i.pinimg.com/474x/3b/52/46/3b524657f01fc92110efa4317d85a979.jpg'); */
+  width: 70%;
+  margin-left: 15%;
+  background-color:rgb(108 56 56 / 85%);
+  border-radius: 1%;
+  padding-bottom: 1%;
+ 
+}
+.card2{
+  background-color:white;
+  width: 70%;
+  margin-left: 16%;
+}
+.navbar-brand img{
+  width: 20%;
+  height: 20%;
+}
+.question{
+  word-spacing:10%;
+}
